@@ -80,17 +80,15 @@
   date: July 08 - 12
   place: Enschede, The Netherlands
   tags: [SEC, PRIV, CONF]
-    
+
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2023
-  link: https://www.augusta.edu/ccs/conferences/cans2023/
-  deadline: ["2023-07-08 12:00"]
-  timezone: Etc/UTC
-  date: October 31-November 2
-  place: Atlanta, United States
+  year: 2024
+  link: https://2024.cansconference.org/
+  deadline: ["2024-04-14 23:59"]
+  date: September 24-27
+  place: Cambridge, UK
   tags: [SEC, CRYPTO, CONF]
-  comment: Extended deadline
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks 
@@ -592,7 +590,7 @@
   description: ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems
   year: 2024
   link: https://energysp.github.io/
-  deadline: ["2024-03-17 23:59"]
+  deadline: ["2024-03-25 23:59"]
   comment: In conjunction with ACM eEnergy
   date: June 4
   place: Singapore, Singapore
@@ -602,7 +600,7 @@
   description: 3rd Workshop on Rethinking Malware Analysis
   year: 2024
   link: https://worma.gitlab.io/2024/
-  deadline: ["2024-03-14 23:59"]
+  deadline: ["2024-03-26 23:59"]
   date: July 8-12
   comment: Co-located with IEEE Euro S&P 2024
   place: Vienna, Austria
@@ -612,7 +610,7 @@
   description: Workshop on System Software for Trusted Execution
   year: 2024
   link: https://systex24.github.io/
-  deadline: ["2024-03-14 23:59"]
+  deadline: ["2024-03-26 23:59"]
   date: July 8
   comment: Co-located with IEEE Euro S&P 2024
   place: Vienna, Austria
@@ -733,7 +731,7 @@
   description: Security of Software/Hardware Interfaces
   year: 2024
   link: https://silm-workshop.github.io/
-  deadline: ["2024-03-15 23:59"]
+  deadline: ["2024-03-29 23:59"]
   comment: Co-located with EURO S&P 2024
   date: July 12
   place: Vienna, Austria
@@ -909,3 +907,14 @@
   date: September 17-19
   place: Kyoto, JP
   tags: [SEC, PRIV, CRYPTO, SHOP]
+
+- name: CSET
+  description: Cyber Security Experimentation and Test Workshop
+  year: 2024
+  link: https://cset24.isi.edu/
+  comment: Co-located with USENIX Security
+  deadline: ["2024-05-17 20:00"]
+  timezone: America/New_York
+  date: August 13
+  place: Philadelphia, PA, USA
+  tags: [SEC, SHOP]
